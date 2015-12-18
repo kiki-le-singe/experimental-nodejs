@@ -1,5 +1,6 @@
 import colors from 'colors';
 
+console.log(colors);
 console.log('hello'.green);
 console.log('i like cake and pies'.underline.red);
 console.log('inverse the color'.inverse);
