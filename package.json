@@ -23,5 +23,8 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "babel-register": "^6.3.13"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
   }
 }
